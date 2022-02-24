@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TESgjweoig9urwgwgwrgioghwer9ugroruhueq3gry/1.0.0": {
+        "runtime": {
+          "TESgjweoig9urwgwgwrgioghwer9ugroruhueq3gry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TESgjweoig9urwgwgwrgioghwer9ugroruhueq3gry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
